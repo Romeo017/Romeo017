@@ -11,7 +11,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamkhanraheel&count_private=true&show_icons=true)
 
-![Ejaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkhanraheel&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkhanraheel&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhanraheel&layout=compact&count_private=true&show_icons=true)
 <!---
