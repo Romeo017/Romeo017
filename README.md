@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Raheel Khan
-- Completed B.Tech in CSE
 - Learning software dev, coding in python, practicing javascript
 - 👀 Have interest in Artificial Intelligence and learning new Tech on the way...
 - 🌱 Learning never stops, so do I in coding
+- Completed B.Tech in CSE
 - 📫 Mail me for anything to learn or discuss on any topics at imkhanraheel@gmail.com
 
 
