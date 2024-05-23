@@ -7,6 +7,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=iamkhanraheel&color=blue)
+[![streak](https://codeium.com/badges/v2/user/iamkhanraheel/streak)](https://codeium.com/profile/iamkhanraheel)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamkhanraheel&count_private=true&show_icons=true)
 
