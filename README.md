@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Raheel Khan
-- Learning software dev, coding in python, practicing javascript
-- 👀 Have interest in Artificial Intelligence and learning new Tech on the way...
-- 🌱 Learning never stops, so do I in coding
-- Completed B.Tech in CSE
-- 📫 Mail me for anything to learn or discuss on any topics at imkhanraheel@gmail.com
-
+- 👋 Hi, I'm Raheel Khan, a Software Engineer with a strong foundation in Python & also do coding in C, C++ and JavaScript.
+- 🌱 I'm a continuous learner, constantly exploring new technologies and improving my coding skills.
+- 🔭 I'm passionate about Artificial Intelligence and Machine Learning, and I actively work on personal projects to apply these concepts.
+- 💼 My professional experience includes developing and customizing HRMS, accounting, and materials management modules within the Frappe ERPNext framework.
+- 🛠️ I'm proficient in web development frameworks such as Django, Flask, Laravel, and Filament.
+- 📫 Feel free to reach out to me at imkhanraheel@gmail.com for any discussions or collaborations.
 
 ![](https://komarev.com/ghpvc/?username=iamkhanraheel&color=blue)
 [![streak](https://codeium.com/badges/v2/user/iamkhanraheel/streak)](https://codeium.com/profile/iamkhanraheel)
